@@ -8,7 +8,7 @@ export default function Home() {
       <header className="bg-white shadow-md sticky top-0 z-50">
         <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
           <div className="flex items-center space-x-3">
-            <Image src={logo} alt="VBARDS Logo" width={60} height={60} />
+            <Image src={logo} alt="VBARDS Logo" width={100} height={100} />
             <h1 className="text-2xl font-bold text-blue-700">VBARDS PRECISION INDUSTRIES</h1>
           </div>
           <nav className="space-x-6 font-medium">
@@ -22,7 +22,7 @@ export default function Home() {
 
       {/* Hero Section */}
       <section className="bg-blue-700 text-white py-20 text-center">
-        <h2 className="text-4xl md:text-5xl font-bold mb-4">VBARDS Precision Industries</h2>
+        <h1 className="text-4xl md:text-5xl font-bold mb-4">VBARDS Precision Industries</h1>
         <p className="text-lg md:text-xl max-w-2xl mx-auto">
           Delivering world-class CNC machining, milling, and fabrication services for aerospace, automotive, and industrial needs.
         </p>
@@ -73,7 +73,7 @@ export default function Home() {
           <h3 className="text-3xl font-semibold mb-6">Get in Touch</h3>
           <p className="mb-6">Have a project or need a quote? Reach out to us today.</p>
           <a
-            href="mailto:info@vbardsprecision.com"
+            href="mailto:info.vbards@vbards.in"
             className="bg-white text-blue-700 px-6 py-3 rounded-xl font-semibold hover:bg-gray-100"
           >
             Contact Us
