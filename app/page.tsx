@@ -8,7 +8,7 @@ export default function Home() {
       <header className="bg-white shadow-md sticky top-0 z-50">
         <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
           <div className="flex items-center space-x-3">
-            <Image src={logo} alt="VBARDS Logo" width={60} height={60} />
+            <Image src={logo} alt="VBARDS Logo" width={100} height={100} />
             <h1 className="text-2xl font-bold text-blue-700">VBARDS PRECISION INDUSTRIES</h1>
           </div>
           <nav className="space-x-6 font-medium">
