@@ -73,7 +73,7 @@ export default function Home() {
           <h3 className="text-3xl font-semibold mb-6">Get in Touch</h3>
           <p className="mb-6">Have a project or need a quote? Reach out to us today.</p>
           <a
-            href="mailto:info@vbardsprecision.com"
+            href="mailto:info.vbards@vbards.in"
             className="bg-white text-blue-700 px-6 py-3 rounded-xl font-semibold hover:bg-gray-100"
           >
             Contact Us
